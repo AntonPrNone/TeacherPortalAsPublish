@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "TeacherPortalAs",
   "resources": {
-    "hash": "sha256-Sk17qD2I6ySYIdaz/Q20sQiVtmdSSwlgdLO1Gti2ANk=",
+    "hash": "sha256-JKby99jyNcHQ+o176g/6pckE+dNxJB9uZ4SVTL3BrcM=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-xNQsYHtL1vcbrVTHDZAwJM4WovpoyjsrM2C6FQ8cW1w="
     },
@@ -12,9 +12,7 @@
       "dotnet.native.wasm": "sha256-XhsharnkthjahGEiBkFjCLc/87/Tecti9860TIEq0H0="
     },
     "icu": {
-      "icudt_CJK.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
-      "icudt_EFIGS.dat": "sha256-8fItetYY8kQ0ww6oxwTLiT3oXlBwHKumbeP2pRF4yTc=",
-      "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
+      "icudt.dat": "sha256-tO5O5YzMTVSaKBboxAqezOQL9ewmupzV2JrB5Rkc8a4="
     },
     "coreAssembly": {},
     "assembly": {
@@ -223,13 +221,13 @@
       "System.Xml.XmlSerializer.wasm": "sha256-7QP9sHOrs/Ksfbmq2k6ZP4wcC8ojzDdJonrkZrqHd1Y=",
       "System.Xml.XPath.wasm": "sha256-k22VGrYneMfp5tbgjCIKZ4Es18/coAWqK2mbZYwvb/Y=",
       "System.Xml.XPath.XDocument.wasm": "sha256-7bWTNwo42TStE3xkxxN0ZER9N2cJIOwc765TDdp9qMo=",
-      "TeacherPortalAs.wasm": "sha256-+jpH6mNbb0ooPJ12LB1bUu9N8X0tOmc5W0Y83rOnUL4=",
+      "TeacherPortalAs.wasm": "sha256-CRIHzpQv/JyynNsYqcrxi6f4DFGvz/O5jKjjNKjH6uI=",
       "Websocket.Client.wasm": "sha256-mK1Y69iaJIlCiwO57XP3JeGf+acH7UzuOz4D8ngEaSM=",
       "WindowsBase.wasm": "sha256-ykhq7iZtK56yHkgB/NiRUQpA1mcGkMZVZ1Ph80sJE1o="
     }
   },
   "debugLevel": 0,
-  "globalizationMode": "sharded",
+  "globalizationMode": "all",
   "extensions": {
     "blazor": {}
   }
