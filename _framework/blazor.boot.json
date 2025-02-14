@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "TeacherPortalAs",
   "resources": {
-    "hash": "sha256-ex45oM9O5I1GxKsSYLsGuj7IlDJGkxIngXpKJGRkITY=",
+    "hash": "sha256-DHKWK2DK+M8f42Atz4evi6qZylASl+QRPGB4lJLOxiA=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-ftaDgs2I0oB9cwaDktKNuKNWeMUXMv9sWbAd+YMWyHM="
     },
@@ -9,7 +9,7 @@
       "dotnet.runtime.js": "sha256-13vqU3hueOALvSTEM8xnJkJj2exVJYtNc1KZelMCDf0="
     },
     "wasmNative": {
-      "dotnet.native.wasm": "sha256-+1RzwSGfFM9U8p6vJkzJaT4cZpaGQvzgPh7v9TAknbk="
+      "dotnet.native.wasm": "sha256-O9y8PwTurY9a2ts55Y8+1H0W6pa6czOhqAG21VuSwQ0="
     },
     "coreAssembly": {},
     "assembly": {
@@ -74,7 +74,7 @@
       "System.wasm": "sha256-Imc3VKweWiVSTfISxn8qRdbj1a3TmdIPoZ2BQ8U+dV8=",
       "System.Web.HttpUtility.wasm": "sha256-5hYuelIbv8G/hmdhBVYjccYHvaW96mgNvUoK6L7+Mrc=",
       "System.Xml.Linq.wasm": "sha256-Pluwz37ouIbh57inrBPeiJDw1cPFifXCzhbvWNhqyTk=",
-      "TeacherPortalAs.wasm": "sha256-Nqm75BebtvtpLeIrmYcX976hrgaOKyAvX45+Kzu+4OM=",
+      "TeacherPortalAs.wasm": "sha256-wwZhwcXnt7Wh06fTYpPEYtNE2SKvlmoGqnIredY3FfU=",
       "Websocket.Client.wasm": "sha256-SgKzyw4jNaw10IOGtdrWsMeUEmnA+RFSydRgrrk6+q8="
     }
   },
